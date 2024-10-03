@@ -1,3 +1,4 @@
+
 # api-fetch
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -10,13 +11,17 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+
 ## Project Setup
 
+# 1. Cloning
+    git clone <project URL>
+# 2. installing dependecies
 ```sh
 npm install
 ```
-
 ### Compile and Hot-Reload for Development
+# 3. Run the application
 
 ```sh
 npm run dev
